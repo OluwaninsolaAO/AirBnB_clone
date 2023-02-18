@@ -32,8 +32,7 @@
     display: inline-block;
     position: relative;
     line-height: 5px;
-    padding-left: 3%;
-    padding-top: 5px;
+    padding-left: 4%;
 }
 
 .locations {
@@ -42,6 +41,7 @@
 
 .filters h3 {
     font-weight: 600;
+    padding-top: 5px;
 }
 
 .filters h4 {
